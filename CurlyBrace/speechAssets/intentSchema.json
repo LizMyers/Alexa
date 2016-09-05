@@ -1,0 +1,49 @@
+{
+  "intents": [
+    {
+      "intent": "GreetingIntent",
+      "slots": [
+      {
+        "name" : "FirstName",
+        "type": "AMAZON.US_FIRST_NAME"
+      }
+     ]
+    },
+    {
+      "intent": "TurnOnSQSIntent"
+    },
+    {
+      "intent": "TurnOffSQSIntent"
+    },
+    {
+      "intent": "SqsStatusIntent"
+    },
+    {
+      "intent": "RecipeIntent",
+      "slots": [
+      {
+        "name" : "Item",
+        "type": "LIST_OF_ITEMS"
+      }
+     ]
+    },
+    {
+      "intent": "AMAZON.RepeatIntent"
+    },
+   {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+     "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    }
+  ]
+}
