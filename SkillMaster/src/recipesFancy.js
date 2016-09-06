@@ -69,7 +69,7 @@ module.exports = {
     "intents": "Intents are capabilities, or things your skill can do. customers speak utterances, which map to intents, which then trigger functions in your code. Each intent triggers a specific function.",
     "intent schema": "The intent schema is a JSON structure, which declares the capabilities your skills has.  It defines the intents and slot types your skill uses.",
     "invocation name": "The invocation name is what you say to launch your skill. Take a look at the skill information tab on the developer portal again. At the bottom you'll see the invocation name.",
-    "lambda": "Lambda is an AWS compute service that runs your code in response to events and automatically manages the compute resources for you. This lets you run code (referred to as a Lambda function) in the cloud without managing servers. Lambda supports coding in Node dot js, Java, and Python.",
+    "lambda": "Lambda is an AWS compute service that runs your code in response to events, and automatically manages all resources for you. This lets you run code in the cloud without managing servers. Lambda supports coding in Node dot js, Java, and Python.",
     "launch my skill": "There are several keywords you can use to launch your skill. Just say launch, begin, start, or open and the invocation name for your skill.",
     "make a skill": "To get started making skills, you need three things: an aws account, a developer account, and the sample templates on GitHub. Whew! That\'s a mouthfull. I bet you're glad I've pulled everything together for you on a single page.",
     "make an http request": "To make an http request, take a look at the history template, and this, index.js page. Scroll down to line 264, and you'll see the http request.",

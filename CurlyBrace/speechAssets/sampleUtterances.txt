@@ -1,0 +1,37 @@
+RecipeIntent can I {Item}
+RecipeIntent how long does it take to {Item}
+RecipeIntent how long will it take to {Item}
+RecipeIntent how long will it be to {Item}
+RecipeIntent how much time does it take to {Item}
+RecipeIntent how to {Item}
+RecipeIntent how can I {Item}
+RecipeIntent how do I {Item}
+RecipeIntent how does alexa {Item}
+RecipeIntent how does alexa handle {Item}
+RecipeIntent how do you {Item}
+RecipeIntent what are {Item}
+RecipeIntent what is {Item}
+RecipeIntent what is a {Item}
+RecipeIntent what is an {Item}
+RecipeIntent what is the {Item}
+RecipeIntent where is {Item}
+RecipeIntent which {Item} should I make
+
+AMAZON.NoIntent no 
+AMAZON.NoIntent no thanks
+AMAZON.CancelIntent nothing
+
+AMAZON.StopIntent thats all
+AMAZON.StopIntent nothing thanks
+AMAZON.StopIntent nothing 
+AMAZON.StopIntent thanks
+AMAZON.StopIntent ok thanks
+AMAZON.StopIntent ok
+AMAZON.StopIntent all right
+AMAZON.StopIntent thank you
+AMAZON.StopIntent ok cheers
+AMAZON.StopIntent cheers
+
+AMAZON.HelpIntent I don't know 
+AMAZON.HelpIntent dunno 
+AMAZON.HelpIntent don't know 
