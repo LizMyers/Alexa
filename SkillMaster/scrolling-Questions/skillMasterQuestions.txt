@@ -1,0 +1,92 @@
+.wrapper
+    .movie Let's ASK [SKILL MASTER]
+
+    .job Alexa, ask Skill Master
+    .name What are skills?
+
+    .job Alexa, ask Skill Master
+    .name.link How do I build skills?
+
+    .job Alexa, ask Skill Master
+    .name.link How do I get started?
+
+    .job Alexa, ask Skill Master
+    .name.link How do I check-in to my event?
+    
+    .job Alexa, ask Skill Master
+    .name.link How do I get a developer account?
+
+    .job Alexa, ask Skill Master
+    .name.link How do I get an AWS account?
+    
+    .job Alexa, ask Skill Master
+    .name.link How do I get the sample templates?
+
+    .job Alexa, ask Skill Master
+    .name.link How do I get an Amazon device?
+
+    .job Alexa, ask Skill Master
+    .name.link How do I make an HTTP request?
+    
+    .job Alexa, ask Skill Master
+    .name What is an intent schema?
+    
+    .job Alexa, ask Skill Master
+    .name What are intents?
+    
+    .job Alexa, ask Skill Master
+    .name What are utterances?
+    
+    .job Alexa, ask Skill Master
+    .name What are slots?
+
+    .job Alexa, ask Skill Master
+    .name Can I publish flashcards?
+
+    .job Alexa, ask Skill Master
+    .name.link What is SSML?
+    
+    .job Alexa, ask Skill Master
+    .name Can I republish your templates?
+
+    .job Alexa, ask Skill Master
+    .name How do I fix the Event Source Type?
+    
+    .job Alexa, ask Skill Master
+    .name.link How do I make icons?
+
+    .job Alexa, ask Skill Master
+    .name.link Where can I find the templates?
+    
+    .job Alexa, ask Skill Master
+    .name How do I find my app ID?
+
+    .job Alexa, ask Skill Master
+    .name Which skill should I make?
+
+    .job Alexa, ask Skill Master
+    .name.link How can I test my skills?
+
+    .job Alexa, ask Skill Master
+    .name How do I find the ARN?
+
+    .job Alexa, ask Skill Master
+    .name.link How do I use audio clips?
+
+    .job Alexa, ask Skill Master
+    .name.link How do I claim my device?
+
+    .job Alexa, ask Skill Master
+    .name What is Lambda?
+    
+    .job Alexa, ask Skill Master
+    .name.link How can I get some help?
+    
+    .job Alexa, ask Skill Master
+    .name.link How do I test my skill?
+    
+    .job Alexa, ask Skill Master
+    .name.link What are cards?
+    
+    .job Alexa, ask Skill Master
+    .name.link How do I setup the Tap?
